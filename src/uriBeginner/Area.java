@@ -37,7 +37,6 @@ public class Area {
 		double pi = (float) 3.14159;
 		double trian, cir, trap, squard, rect;
 		double A, B, C;
-		String res = "";
 		Scanner sc = new Scanner();
 		A = sc.nextDouble();
 		B = sc.nextDouble();
